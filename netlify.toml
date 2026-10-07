@@ -1,0 +1,3 @@
+[build]
+  command = "pnpm --filter @workspace/dhuper-portfolio run build"
+  publish = "artifacts/dhuper-portfolio/build"
